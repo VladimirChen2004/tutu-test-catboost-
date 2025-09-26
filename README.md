@@ -1,5 +1,8 @@
 # tutu-test-catboost-
 
+данные и модель тут
+https://drive.google.com/drive/folders/14wwKray7Q_0uBm5NNjsVYeHMK7OXcVR0?usp=sharing
+
 ### Обзор
 
 Задача: прогноз item_losses по заказам маркетплейса с временной валидацией и поддержкой большого числа категориальных и числовых признаков на GPU с CatBoost.
